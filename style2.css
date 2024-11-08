@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e0f7fa;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #2a9d8f;
+  color: white;
+  padding: 2em;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.3em;
+}
+
+section {
+  padding: 2em;
+  margin: 1em auto;
+  max-width: 800px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+  color: #0277bd;
+  margin-bottom: 0.5em;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #2a9d8f;
+  color: white;
+  font-size: 0.9em;
+}
+
+#rivers .riv{
+  background: #e76f51;
+  color: white;
+  padding: 5px 4px;
+  border: none;
+  text-decoration: none;
+  border-radius: 5px;
+ 
+}
+#lakes .lak{
+  background: #e76f51;
+  color: white;
+  padding: 5px 4px;
+  border: none;
+  text-decoration: none;
+  border-radius: 5px;
+ 
+}
+#groundwater .ground{
+  background: #e76f51;
+  color: white;
+  padding: 5px 4px;
+  border: none;
+  text-decoration: none;
+  border-radius: 5px;
+ 
+}
+#oceans .oce{
+    background: #e76f51;
+    color: white;
+    padding: 5px 4px;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+   
+}
